@@ -1,15 +1,16 @@
 # Topic: Data_Visualization using PowerBi tool
 
-#Procedure 
+# Procedure :
 
-1.Collection of owid_covid_data from kaggle
+1.Collection of owid_covid_data from kaggle.
 2.Cleaning of dataset using Power BI editor.
 3.Data Visualization using different kinds of charts.
 4.Giving description for each chart.
 5.Creating a storyboard which helps in the easy understanding of the charts.
 
 
-##Output
+# Output:
+
 <img width="1915" height="1036" alt="Screenshot 2025-09-24 152555" src="https://github.com/user-attachments/assets/0d93a44f-6cfd-4f70-a28f-9129ff2d8297" />
 
 
